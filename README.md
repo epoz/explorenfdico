@@ -1,2 +1,3 @@
 # explorenfdico
-Exploring the Data in the NFDICore Ontology
+
+[Exploring the Data in the NFDICore Ontology](ExploreNFDICO.ipynb)
